@@ -1,1 +1,1 @@
-true
+update,https://google.com
